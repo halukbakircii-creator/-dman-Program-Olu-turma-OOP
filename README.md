@@ -1,4 +1,4 @@
-# ıdman olusturma-OOP
+# İdman olusturma-OOP
 public class Egzersiz {
     private String isim;
     private int setSayisi;
